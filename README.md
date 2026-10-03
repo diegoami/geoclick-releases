@@ -9,7 +9,7 @@ Italian.
 <https://geoclick.netlify.app/>
 
 This repository only holds the downloadable apps. The game's source code
-is kept elsewhere.
+is in [Geoclick2027](https://github.com/diegoami/Geoclick2027).
 
 ## Download
 
